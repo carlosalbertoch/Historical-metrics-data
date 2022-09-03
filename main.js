@@ -2,7 +2,7 @@ import vertexShader from './shaders/vertex.glsl.js';
 import fragmentShader from './shaders/fragment.glsl.js';
 import atmosphereVertexShader from './shaders/atmosphereVertex.glsl.js';
 import atmosphereFragmentShader from './shaders/atmosphereFragment.glsl.js';
-import gsap from "./node_modules/gsap/gsap-core.js";
+import gsap from "node_modules/gsap/gsap-core.js";
 
 
 
