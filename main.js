@@ -1,8 +1,10 @@
+
+import * as THREE from "https://cdn.skypack.dev/three@0.136.0";
 import vertexShader from './shaders/vertex.glsl.js';
 import fragmentShader from './shaders/fragment.glsl.js';
 import atmosphereVertexShader from './shaders/atmosphereVertex.glsl.js';
 import atmosphereFragmentShader from './shaders/atmosphereFragment.glsl.js';
-import gsap from "./node_modules/gsap/gsap-core.js";
+import gsap from "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.0/gsap.min.js";
 
 
 
